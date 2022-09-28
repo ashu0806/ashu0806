@@ -37,53 +37,40 @@
 <br/><br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ashwini's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jaiswal4sudeep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ashwini's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ashu0806&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   
 
 ## 🧠 Tech Stack
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![C#](https://img.shields.io/badge/-Cs-05122A?style=flat&logo=csharp)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;  
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp; 
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=4479A1)&nbsp; 
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=4479A1)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node&logoColor=4479A1)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Adobe](https://img.shields.io/badge/-Adobe-05122A?style=flat&logo=adobe)&nbsp;
-![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
 
   ## &#128232; Connect with me
 
  <p align="center">
-  <a href="https://linkedin.com/in/jaiswal4sudeep">
-    <img src="https://img.shields.io/badge/-jaiswal4sudeep-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ashwini-gupta-939621200/">
+    <img src="https://img.shields.io/badge/-ashu0806-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
    </a>
-  <a href="mailto:jaiswal4sudeep@gmail.com">
-    <img src="https://img.shields.io/badge/-jaiswal4sudeep@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <a href="ashwinigupta8052653693@gmail.com">
+    <img src="https://img.shields.io/badge/-ashwinigupta8052653693@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
    </a>
-  <a href="https://instagram.com/jaiswal4sudeep">
-    <img src="https://img.shields.io/badge/-jaiswal4sudeep-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/jaiswal4sudeep">
-    <img src="https://img.shields.io/badge/-jaiswal4sudeep-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://www.instagram.com/_ashu_1807/">
+    <img src="https://img.shields.io/badge/-ashu0806-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
   <br/>
