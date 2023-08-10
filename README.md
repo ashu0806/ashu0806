@@ -13,9 +13,9 @@
 
   ## 🧑‍💻 About Me
 <ul>
-  <li> I’m currently working on Android Developement with Flutter. </li>
+  <li> I’m a Application Developer (Flutter) for both iOS and Android Platform. </li>
   <li> I love to solve Data Structure and Algorithm Problems with Java . </li>
-  <li> I'm a Computer Science Engineering Student (Graduating in 2023). </li>
+  <li> I'm a Computer Science Engineering Student (Graduated in 2023). </li>
 <ul>
 
   ## &#128200; Contribution Streak
@@ -63,7 +63,7 @@
   ## &#128232; Connect with me
 
  <p align="center">
-  <a href="https://www.linkedin.com/in/ashwini-gupta-939621200/">
+  <a href="https://www.linkedin.com/in/ashu0806/">
     <img src="https://img.shields.io/badge/-ashu0806-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
    </a>
   <a href="ashwinigupta8052653693@gmail.com">
