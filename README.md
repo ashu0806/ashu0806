@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Android+Developer;Web+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Application+Developer;Web+Developer">
 </p>
 
 
@@ -66,7 +66,7 @@
   <a href="https://www.linkedin.com/in/ashu0806/">
     <img src="https://img.shields.io/badge/-ashu0806-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
    </a>
-  <a href="ashwinigupta8052653693@gmail.com">
+  <a href="@ashwinigupta8052653693@gmail.com">
     <img src="https://img.shields.io/badge/-ashwinigupta8052653693@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
    </a>
   <a href="https://www.instagram.com/_ashu_1807/">
