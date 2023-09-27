@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Application+Developer;Web+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&width=500&height=100&lines=Application+Developer;Web+Developer">
 </p>
 
 
